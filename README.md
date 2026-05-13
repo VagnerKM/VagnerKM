@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=3776AB&center=true&vCenter=true&width=700&height=60&lines=Olá%2C+sou+o+Vagner+Medeiros!;From+Atoms+to+Bits;Materials+Engineer+%26+Data+Analyst;Python+%7C+SQL+%7C+FastAPI+%7C+BI" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=3776AB&center=true&vCenter=true&width=700&height=60&lines=Olá%2C+sou+o+Vagner+Medeiros!;From+Atoms+to+Bits;Product+Analyst+%40Dynamox;Python+%7C+SQL+%7C+FastAPI+%7C+BI" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vagner-medeiros-3a6993285/" target="_blank">
+  <a href="https://www.linkedin.com/in/vagnerkmedeiros/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:vagnerkmedeiros@gmail.com">
@@ -14,10 +14,10 @@
 ---
 <h2 align="center">Sobre Mim</h2>
 
-👨‍🔬 **De Engenheiro de Materiais para Especialista em Dados.**
-Minha trajetória é movida pelo conceito **"From Atoms to Bits"**. Utilizo o rigor científico e a capacidade analítica desenvolvidos na engenharia de materiais para extrair inteligência de grandes volumes de dados. Sou especialista em transformar problemas complexos em soluções estruturadas e escaláveis.
+👨‍🔬 **Analista de Produtos na Dynamox | Engenheiro de Materiais.**
+Minha trajetória é movida pelo conceito **"From Atoms to Bits"**. Atualmente, utilizo o rigor científico e a capacidade analítica da engenharia para impulsionar o desenvolvimento de produtos tecnológicos. Sou especialista em traduzir requisitos complexos em soluções estruturadas e orientadas a dados.
 
-🚀 **Missão:** Integrar a expertise em **P&D e Otimização de Processos Industriais** com o ecossistema moderno de dados. Atuo na intersecção entre a lógica de engenharia e a engenharia de software, focado em entregar valor através de automação, análise preditiva e arquiteturas de dados eficientes.
+🚀 **Missão:** Unir a expertise em **P&D e Otimização de Processos** com a gestão moderna de produtos digitais. Atuo na intersecção entre a lógica de engenharia e a engenharia de software, focado em entregar valor através de automação, inteligência de dados e arquiteturas eficientes.
 
 <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
